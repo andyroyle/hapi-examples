@@ -1,0 +1,17 @@
+{
+  "name": "hapi-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "hapi": "~1.14.0",
+    "good": "~0.12.0",
+    "redis": "~0.8.6",
+    "joi": "~1.2.2"
+  }
+}
