@@ -10,7 +10,6 @@ server.route({
     path: '/hello',
     config: {
         handler: function (req) {
-
             req.reply('hello world');
         }
     }
